@@ -13,4 +13,5 @@
 #### 모델 용량
 
 -rw-rw-r--. 1 dev01 dev01 201850435 Jan 13 18:22 vgg16_1.keras
+
 -rw-rw-r--. 1 dev01 dev01 201832528 Jan 13 18:22 vgg16_1.weights.h5
